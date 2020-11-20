@@ -1,0 +1,2 @@
+["meat"] 		 			 = {["name"] = "meat", 							["label"] = "Meat", 					["weight"] = 1000, 		["type"] = "item", 		["image"] = "meat.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false,	   ["combinable"] = nil,   ["description"] = "Raw Meat"},
+["leather"] 		 		 = {["name"] = "leather", 						["label"] = "Leather", 					["weight"] = 1000, 		["type"] = "item", 		["image"] = "leather.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false,	   ["combinable"] = nil,   ["description"] = "Raw Leather"},
